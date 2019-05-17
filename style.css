@@ -65,7 +65,7 @@ h1 {
         }
     }
 
-    @media (max-width:481px) { 
+@media (max-width:481px) { 
         .main{font-size: 8px;}
     
     }
@@ -74,11 +74,3 @@ h1 {
     .main{font-size: 6px;}
 
 }
-
-
-
-
-
-
-
-
