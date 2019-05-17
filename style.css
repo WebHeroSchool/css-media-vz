@@ -42,20 +42,20 @@ h1 {
 }
 
 
-@media (max-width:1281px) { /* hi-res laptops and desktops */
+@media (max-width:1281px) {
     .main{font-size: 20px;}
     }
     
-@media (max-width:1025px) { /* big landscape tablets, laptops, and desktops */ 
+@media (max-width:1025px) {
         .main{font-size: 16px;}
     }
 
-@media (max-width:961px) { /* tablet, landscape iPad, lo-res laptops ands desktops */ 
+@media (max-width:961px) {
         .main{font-size: 14px;}
     }
 
 
-@media (max-width:641px) { /* portrait tablets, portrait iPad, landscape e-readers, landscape 800x480 or 854x480 phones */ 
+@media (max-width:641px) {
         .main{font-size: 10px;}
     
         .topnav a {display: none;}
@@ -65,12 +65,12 @@ h1 {
         }
     }
 
-    @media (max-width:481px) { /* portrait e-readers (Nook/Kindle), smaller tablets @ 600 or @ 640 wide. */ 
+    @media (max-width:481px) { 
         .main{font-size: 8px;}
     
     }
 
-@media (max-width:320px) { /* smartphones, iPhone, portrait 480x320 phones */ 
+@media (max-width:320px) { 
     .main{font-size: 6px;}
 
 }
